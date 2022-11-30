@@ -155,3 +155,17 @@ footer {
     color: navy;
     font-size: 20px;
 }
+
+.button-one-section {
+    background-color: cornflowerblue;
+    padding: 20px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button-top-img {
+    border: 3px solid white;
+    box-shadow: 10px 10px 20px black;
+    width: 70%;
+}
