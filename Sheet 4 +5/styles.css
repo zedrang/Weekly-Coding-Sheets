@@ -52,6 +52,17 @@ button:active {
     transform: translateY(4px);
 }
 
+footer {
+    background-color: rebeccapurple;
+    height: 30px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: x-small;
+    color: white;
+    padding: 10px 0px;
+}
+
+
 .container-navigation {
     display: flex;
     flex-wrap: wrap;
@@ -117,7 +128,6 @@ button:active {
 
 .section-five {
     background-color: goldenrod;
-    height: 1400px;
 }
 
 .caption {
