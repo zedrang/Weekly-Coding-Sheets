@@ -1,9 +1,9 @@
 body{
-    background-color: limegreen;
+    background-color: #F2EDA2;
 }
 
 header {
-    background-color: hotpink;
+    background-color: #F29191;
     padding: 10px 0px 10px 0px;
 }
 
@@ -42,18 +42,18 @@ button {
 }
 
 button:hover {
-    background-color: limegreen;
+    background-color: #B34559;
     color: white;
 }
 
 button:active {
-    background-color: #3e8e41;
-    box-shadow: 0 5px darkred;
+    background-color: #9A4761;
+    box-shadow: 0 5px #E47276;
     transform: translateY(4px);
 }
 
 footer {
-    background-color: rebeccapurple;
+    background-color: #1B1E59;
     height: 30px;
     text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -75,7 +75,7 @@ footer {
 }
 
 .section-one {
-    background-color: blueviolet;    
+    background-color: #2A398C;    
 }
 
 .flexgrow-container {
@@ -83,25 +83,28 @@ footer {
 }
 
 .box1 {
-    background-color: skyblue;
+    background-color: #1B1E59;
     height: 200px;
     flex: 1 1 auto;
+    color: white;
 }
 
 .box2 {
-    background-color: lightgreen;
+    background-color: #2A398C;
     height: 200px;
     flex: 2 1 auto;
+    color: white;
 }
 
 .box3 {
-    background-color: darkmagenta;
+    background-color: #1B1E59;
     height: 200px;
     flex: 1 1 auto;
+    color: white;
 }
 
 .section-two {
-    background-color: orangered;
+    background-color: #6089BF;
     height: 700px;
     display: flex;
     align-items: center;
@@ -109,7 +112,7 @@ footer {
 }
 
 .section-three {
-    background-color: lightcoral;
+    background-color: #2A398C;
     height: 800px;
     display: flex;
     flex-wrap: wrap;
@@ -119,7 +122,7 @@ footer {
 }
 
 .section-four {
-    background-color: darkslateblue;
+    background-color: #6089BF;
     height: 500px;
     display: flex;
     align-items: center;
@@ -127,7 +130,7 @@ footer {
 }
 
 .section-five {
-    background-color: goldenrod;
+    background-color: #2A398C;
 }
 
 .caption {
@@ -152,12 +155,12 @@ footer {
 
 .mediacontent {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: navy;
+    color: white;
     font-size: 20px;
 }
 
 .button-one-section {
-    background-color: cornflowerblue;
+    background-color: #2A398C;
     padding: 20px 0px;
     display: flex;
     justify-content: center;
