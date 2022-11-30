@@ -13,6 +13,20 @@ h1{
     text-align: center;
 }
 
+ul{
+    list-style-type: none;
+    padding: 5px;
+}
+
+iframe { 
+    padding: 5px;
+}
+
+.container-navigation {
+    display: flex;
+    flex-wrap: wrap;
+}
+
 .section-one {
     background-color: blueviolet;    
 }
@@ -47,10 +61,6 @@ h1{
 .section-three {
     background-color: lightcoral;
     height: 800px;
-}
-
-iframe { 
-    padding: 5px;
 }
 
 .section-four {
