@@ -27,10 +27,6 @@ h1 {
     font-size: xx-large;
 }
 
-p {
-    font-size: medium;
-}
-
 li {
     margin: 0px 10px;
 }
@@ -48,37 +44,6 @@ footer {
 
 a:hover {
     color: #00b0ff;
-}
-
-.push {
-    margin-left: auto;
-}
-
-.reflection {
-    margin: 50px;
-}
-
-.pictures {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-evenly;
-    max-width: 1999px;
-    margin: auto;
-}
-
-.group {
-    width: 400px;
-}
-
-.item {
-    width: 400px;
-    height: 400px;
-    padding: 4px;
-}
-
-.caption {
-    text-align: center;
-    font-size: small;
 }
 
 .footer {
